@@ -1,4 +1,4 @@
-// Name: Ryan Sheeley
+// Name: Ryan
 // Class: CSC-150 Computer Science 1
 #include<stdio.h>
 
