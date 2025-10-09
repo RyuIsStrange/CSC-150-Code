@@ -37,7 +37,7 @@ int main() {
     // Print final grades
     printf("Final grades are: ");
     for (int i = 0; i < 10; i++) {
-        printf("%d ",grade[i]);
+        printf("%d ", final_grades[i]);
     }
 
     return 0;
