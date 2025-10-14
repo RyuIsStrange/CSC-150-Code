@@ -12,7 +12,7 @@ int main() {
     for (int i = 0; i < 10; i++) {
         if (i == 0) {
             max = array[i];
-	    min = array[i];
+	        min = array[i];
         }
         if (array[i] > max) {
             max = array[i];
